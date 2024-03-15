@@ -1,0 +1,19 @@
+/* Setting the background color of the body to black */
+body {
+    background-color: black;
+}
+
+/* Styling the color of nav links in the navbar on hover */
+.navbar-nav .nav-link:hover {
+    color: red;
+}
+
+/* Adding a custom border style */
+.custom-border {
+    border: 5px solid #ccc;
+}
+
+/* Styling for an element with the id 'details' */
+#details {
+    margin-top: 40px;
+}
