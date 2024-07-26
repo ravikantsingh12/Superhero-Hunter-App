@@ -1,7 +1,6 @@
 # Superhero Hunter App
 
-Website is live at: https://ravikantsingh12.github.io/Superhero-Hunter-App/ <br>
-note: All the characters will be displayed but it takes some time to load properly.
+Website is live at: https://ravikantsingh12.github.io/Superhero-Hunter-App/
 
 ## Overview
 
