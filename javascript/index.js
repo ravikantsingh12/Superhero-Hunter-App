@@ -6,7 +6,7 @@ const homePage = document.getElementById('home'),
 
 // Marvel API credentials
 const publicKey = "01ffda40c8cc1647ab10ed6b09f931ec",
-    timeStamp = 1721994112925,
+    timeStamp = 1709740472213,
     hash = "d0518d6833fe225fda8e874b73023426";
 
 // variable to store response data from API
